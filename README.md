@@ -10,7 +10,7 @@ I choose the path of Full Stack developer with JavaScript ! 💪
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/anselme-dor/)
 
-### 🔭 I'm currently working with : 
+### 🔧 I'm currently working with : 
 <p float="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
