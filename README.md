@@ -11,12 +11,12 @@ I choose the path of Full Stack developer with JavaScript ! 💪
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/anselme-dor/)
 
 ### I'm currently working with : 
-
+<p float="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
+</p>
 ### I'm planning on learning : 
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
