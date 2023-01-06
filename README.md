@@ -6,8 +6,9 @@ My name is Anselme,
 I'm currently in a Web Development training @BeCode.org.
 <br />
 <br />
-I choose the path of Full Stack developer with JavaScript ! 
+I choose the path of Full Stack developer with JavaScript ! 💪
 
+<br />
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/anselme-dor/)
 
 ### I'm currently working with : 
