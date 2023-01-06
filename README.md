@@ -6,7 +6,7 @@ I'm currently in a Web Development training @BeCode.org.
 <br />
 I choose the path of Full Stack developer with JavaScript ! 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anselme-dor/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/anselme-dor/)
 
 ##### I'm currently working with : 
 
