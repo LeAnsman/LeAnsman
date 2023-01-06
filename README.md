@@ -2,7 +2,9 @@
 
 My name is Anselme,
 <br />
+<br />
 I'm currently in a Web Development training @BeCode.org.
+<br />
 <br />
 I choose the path of Full Stack developer with JavaScript ! 
 
