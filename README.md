@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 My name is Anselme,
+<br />
 I'm currently in a Web Development training @BeCode.org.
+<br />
 I choose the path of Full Stack developer with JavaScript ! 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anselme-dor/)
 
 ##### I'm currently working with : 
 
