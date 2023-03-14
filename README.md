@@ -21,7 +21,7 @@ I choose the path of Full Stack developer with JavaScript ! 💪
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-###  🌱  I'm planning on learning  : 
+###  🌱  I'm learning  : 
 <p float="left">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
