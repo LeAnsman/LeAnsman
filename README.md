@@ -6,8 +6,7 @@ My name is Anselme,
 I'm currently working at **[SOPIAD](https://sopiad.com)** as a Frontend Developer.
 <br />
 
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/anselme-dor/)
+*[LinkedIn](https://www.linkedin.com/in/anselme-dor/)*
 
 ### 🔧  My stack : 
 <p float="left">
